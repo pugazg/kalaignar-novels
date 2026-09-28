@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed"
 ---
 
 # வாழும் வரலாறு!
@@ -34,7 +34,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 எனக் கடிதம் பேசிற்று! எட்வர்ட், மனதுக்குள் மகிழ்ந்து
 கொண்டான்! பனங்காமம் செல்லும் வேலையில்லாமலேயே
 குருவிச்சியை ஏமாற்றி அழைத்துப் போகிறோமே என்ற
-எக்காளிப்பால் அவன், தன்னைத்தானே புகழ்ந்து கொண்டான்.
+எக்காளிப்பால் அவன், தன்னைத் தானே புகழ்ந்து கொண்டான்.
 குருவிச்சி எதுவும் நினைத்துவிடக் கூடாதே என்பதற்காக
 அவளைப் பார்த்து புன்னகை புரிந்தவாறு, “நீ முதலில்
 கேட்டாயே, கூடாரம் எங்கே இருக்கிறது என்று - இந்தக்
@@ -49,7 +49,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 எட்வர்ட் வீசி எறிந்தான். அந்த வீரன் அதை லாவகமாகப்
 பிடித்துக் கொண்டான்.
 
-எழு குதிரைகளும் நெடுங்கேணி சாலைக்கு வந்துவிட்டன.
+ஏழு குதிரைகளும் நெடுங்கேணிச் சாலைக்கு வந்துவிட்டன.
 உயர்ந்த மரங்கள் அடர்ந்த தோப்பு. அந்தத் தோப்புக்குள்ளே
 ஒரு கூடாரமாம். கூடாரத்தையொட்டியுள்ள மரங்கள்
 ஒவ்வொன்றிலும் முல்லைத்தீவின் வீரன் ஒருவன் சங்கிலியால்
@@ -78,4 +78,18 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 470; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 463; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
+## Formal Part016 Pass 2B review
+
+- independent second textual reread completed directly against rendered source pixels and the Pass2A canonical record;
+- lexical identity, source-specific compounds/joins, word boundaries, punctuation/quotation boundaries, and reform-sensitive historical/variant glyph occurrences were checked without modernization;
+- additional source-confirmed correction: `தன்னைத்தானே` → **`தன்னைத் தானே`** — source word-boundary correction; reverses the Pass2A over-join;
+- additional source-confirmed correction: `எழு குதிரைகளும்` → **`ஏழு குதிரைகளும்`** — source lexical/orthographic correction;
+- additional source-confirmed correction: `நெடுங்கேணி சாலைக்கு` → **`நெடுங்கேணிச் சாலைக்கு`** — source sandhi / word-boundary correction;
+- additional Pass2B source-text corrections in this scan: **3**;
+- historical-glyph corrections in this scan: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **INDEPENDENTLY REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 470; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 20; அச்சுப் பக்கம்: 463; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / visual needs-review -->

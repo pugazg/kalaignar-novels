@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed"
 ---
 
 # வாழும் வரலாறு!
@@ -22,8 +22,8 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 நோக்கிக் குருவிச்சி ஆவேசமாகச் சிரித்தாள்.
 
 “என்ன திகைக்கிறீர்கள்? பனங்காமத்தில்
-ஊமை நாச்சியைக் கொன்று விட்டு இங்கே
-எப்படி வந்தாள் என்றுதானே வைத்தீர்கள்!
+பிணமாகிக் கிடக்க வேண்டியவள் இங்கே
+எப்படி வந்தாள் என்றுதானே? வைத்தீர்கள்!
 பனங்காமத்தில் உமது வீரர் களைப் பிணமாக்கிப்
 போட்டுவிட்டு நானும் எனது வீரர்களும் முல்லைத்தீவு
 அரண்மனையைப் பாதுகாக்க வந்திருக்கிறோம். என்ன
@@ -37,7 +37,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 
 எட்வர்ட் மேட்ஜின் மூளையில் எப்படித்தான் அப்படி ஒரு
 சூழ்ச்சி உதித்ததோ தெரியவில்லை. குருவிச்சியின்
-கோபாக்கினிக்கு முன்னே பதிலுக்கு அவனும் கொந்தளிக்காமல்
+கோபாக்கினிக்குமுன்னே பதிலுக்கு அவனும் கொந்தளிக்காமல்
 மிக நிதானமாகச் சிரித்துக் கொண்டே பதில் சொல்ல
 ஆரம்பித்தான்.
 
@@ -65,4 +65,17 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 467; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 460; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
+## Formal Part016 Pass 2B review
+
+- independent second textual reread completed directly against rendered source pixels and the Pass2A canonical record;
+- lexical identity, source-specific compounds/joins, word boundaries, punctuation/quotation boundaries, and reform-sensitive historical/variant glyph occurrences were checked without modernization;
+- additional source-confirmed correction: `“என்ன திகைக்கிறீர்கள்? பனங்காமத்தில் / ஊமை நாச்சியைக் கொன்று விட்டு இங்கே / எப்படி வந்தாள் என்றுதானே வைத்தீர்கள்!` → **`“என்ன திகைக்கிறீர்கள்? பனங்காமத்தில் / பிணமாகிக் கிடக்க வேண்டியவள் இங்கே / எப்படி வந்தாள் என்றுதானே? வைத்தீர்கள்!`** — direct source-pixel lexical/punctuation correction to the opening dialogue;
+- additional source-confirmed correction: `கோபாக்கினிக்கு முன்னே` → **`கோபாக்கினிக்குமுன்னே`** — source compound / join correction;
+- additional Pass2B source-text corrections in this scan: **2**;
+- historical-glyph corrections in this scan: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **INDEPENDENTLY REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 467; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 460; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / visual needs-review -->

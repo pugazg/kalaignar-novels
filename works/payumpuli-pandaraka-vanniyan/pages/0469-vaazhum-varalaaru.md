@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed"
 ---
 
 # வாழும் வரலாறு!
@@ -22,7 +22,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 பண்டாரகனுக்கு ஏற்பட்டிருக்கக்கூடும் என்பதையும் அவளால்
 முழுமையாக மறுக்கமுடியவில்லை.
 
-“என்னை அவர் இருக்குமிடத்திற்கு அழைத்துச் செல்லத்
+“என்னை அவர் இருக்குமிடத்திற்கு அழைத்துச் செல்வது
 தான் நீங்கள் இங்கே வந்ததின் நோக்கமா?”
 
 “இல்லை! இல்லை! அம்மா! நீ இங்கே இருப்பதே
@@ -34,7 +34,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 பாவை உன் ஆற்றல் எதற்காக வீணாக வேண்டும் - எனவே
 உண்மையைச் சொல்லிவிடலாம் என்ற முடிவுக்கு வந்தோம்!
 அந்தக் கூடாரத்துக்கு வருவதும், வராததும் உனது விருப்
-பத்தைப் பொறுத்தது! எம்முடன் வருவதானால் நானே
+பத்தைப் பொறுத்தது! எம்முடன் வருவதாயின் நானே
 அழைத்துக் கொண்டு போகிறேன். இல்லையேல் நீ இந்த
 அரண்மனையைக் காவல் செய்துவிட்டு போக வேண்டியிருக்கும்.
 அல்லது எமது படையை எதிர்க்க வேண்டியிருக்கும். என்னம்மா,
@@ -52,7 +52,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 எதிரில் ஒரு குதிரையில் ஓர் ஆங்கிலேய வீரன் மிக வேகமாக
 வந்து எட்வர்ட்டின் முன்னால் குதிரையை நிறுத்தினான்.
 
-எட்வர்ட், அந்த வீரனை இறுமாப்புடன் நோக்கி “என்ன?”
+எட்வர்ட்,அந்த வீரனை இறுமாப்புடன் நோக்கி “என்ன?”
 
 ## Pass 1 notes
 
@@ -73,4 +73,18 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 469; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 19; அச்சுப் பக்கம்: 462; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
+## Formal Part016 Pass 2B review
+
+- independent second textual reread completed directly against rendered source pixels and the Pass2A canonical record;
+- lexical identity, source-specific compounds/joins, word boundaries, punctuation/quotation boundaries, and reform-sensitive historical/variant glyph occurrences were checked without modernization;
+- additional source-confirmed correction: `“என்னை அவர் இருக்குமிடத்திற்கு அழைத்துச் செல்லத் / தான் நீங்கள் இங்கே வந்ததின் நோக்கமா?”` → **`“என்னை அவர் இருக்குமிடத்திற்கு அழைத்துச் செல்வது / தான் நீங்கள் இங்கே வந்ததின் நோக்கமா?”`** — source lexical-form reread correction;
+- additional source-confirmed correction: `எம்முடன் வருவதானால் நானே` → **`எம்முடன் வருவதாயின் நானே`** — source lexical-form correction;
+- additional source-confirmed correction: `எட்வர்ட், அந்த வீரனை இறுமாப்புடன்` → **`எட்வர்ட்,அந்த வீரனை இறுமாப்புடன்`** — source-visible punctuation spacing;
+- additional Pass2B source-text corrections in this scan: **3**;
+- historical-glyph corrections in this scan: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **INDEPENDENTLY REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 469; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 19; அச்சுப் பக்கம்: 462; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / visual needs-review -->

@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed"
 ---
 
 # வாழும் வரலாறு!
@@ -28,7 +28,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 அப்படியொன்று நடைபெற்றிருக்குமானால் எட்வர்ட்டும்,
 அவனது வீரர்களும் இவ்வளவு சுலபமாக முல்லைத்தீவின்
 அரண்மனைக்கு வந்திருக்க முடியாதல்லவா? இந்தச்
-சந்தேகத்தினால் எட்வர்ட் பின்னிய சதி வலையில் அவள்
+சந்தேகத்தினால் எட்வர்ட் பின்னிய சதிவலையில் அவள்
 விழுந்துவிட்டாள்.
 
 “இப்போது அவர் எங்கே எந்த இடத்தில் இருக்கிறார்?”
@@ -54,7 +54,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 
 குருவிச்சி, சற்று குழப்பமடைந்தாள். பண்டாரக வன்னியன்
 எதிரியிடம் தோல்வியுற்று, அவனிடம் சமாதான ஒப்பந்தம்
-செய்து கொண்டு, அவன் கூடாரத்தில் அமர்ந்து விருந்துண்ணு
+செய்துகொண்டு, அவன் கூடாரத்தில் அமர்ந்து விருந்துண்ணு
 கிறான் என்பதை அவளால் திடீரென நம்ப முடியவில்லை.
 
 ## Pass 1 notes
@@ -77,4 +77,17 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 468; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: 461; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
+## Formal Part016 Pass 2B review
+
+- independent second textual reread completed directly against rendered source pixels and the Pass2A canonical record;
+- lexical identity, source-specific compounds/joins, word boundaries, punctuation/quotation boundaries, and reform-sensitive historical/variant glyph occurrences were checked without modernization;
+- additional source-confirmed correction: `சதி வலையில்` → **`சதிவலையில்`** — source compound / join correction;
+- additional source-confirmed correction: `செய்து கொண்டு, அவன் கூடாரத்தில்` → **`செய்துகொண்டு, அவன் கூடாரத்தில்`** — source compound / join correction;
+- additional Pass2B source-text corrections in this scan: **2**;
+- historical-glyph corrections in this scan: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **INDEPENDENTLY REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 468; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 18; அச்சுப் பக்கம்: 461; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / visual needs-review -->
