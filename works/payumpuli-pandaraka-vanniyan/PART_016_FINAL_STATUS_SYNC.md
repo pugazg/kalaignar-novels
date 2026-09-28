@@ -133,3 +133,18 @@ Do not begin English translation work.
 - English literary prose drafted in setup — **0**
 - active controls — `translations/en/PART_016_TRANSLATION_PLAN.md`, `PART_016_GLOSSARY.md`, `PART_016_PROGRESS.md`
 - exact next — **E85 draft + source-check — section88 / scans451–454**
+
+## Part016 E85–E90 English source-check closure checkpoint
+
+**PART016 ENGLISH BATCHES — E85–E90 / 6/6 SOURCE-CHECKED / COMPLETE.**
+
+- maintained English sections88–93 — **6/6 SOURCE-CHECKED**
+- source-check controls E85–E90 — **6/6**
+- global source-check sequence E1–E90 — **contiguous / missing 0**
+- maintained English sections00–93 — **contiguous / missing 0**
+- source-boundary markers — **21/21 / PASS**
+- scan476 invented body — **0**
+- post-scan477 leakage — **0**
+- canonical / assembled Tamil edits — **0 / 0**
+- unresolved holds — **0**
+- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**

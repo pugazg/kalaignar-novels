@@ -81,22 +81,14 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 - Part016 source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
 - source SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
 - Part016 scans — **451–477 / 27**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / CURRENT**
-- Tamil archival-ready — **PASS / CLOSED**
-- textual status — **27/27 verified**
-- visual fidelity — **27/27 verified**
-- assembled-reading range — **sections88–93 / 6/6 VERIFIED / CLOSED**
-- assembled canonical coverage — **27/27**
-- assembly validation — **6/6 EXACT / PASS**
-- complete-source endpoint — **scan477 / back cover / publisher-device**
+- canonical Tamil / visual — **27/27 verified / 27/27 verified**
+- Tamil archival-ready / assembly — **PASS / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- reserved English batches — **E85–E90 / 6**
-- reserved maintained English sections — **88–93 / 6**
-- English translated / source-checked — **0/6 / 0/6**
-- exact next — **E85 draft + source-check — section88 / scans451–454**
+- Part016 English batches E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- maintained English sections88–93 — **6/6 SOURCE-CHECKED**
+- complete-source endpoint — **scan477 / back cover / publisher-device**
+- unresolved English batch holds — **0**
+- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
 
 ## User-supplied descriptive note
 

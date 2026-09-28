@@ -1,8 +1,16 @@
 # Part 016 — English Glossary / Source-Sensitive Register
 
-Status: **SETUP COMPLETE / SOURCE-CHECK CONTROL ACTIVE**
+Status: **E85–E90 SOURCE-CHECK COMPLETE / WHOLE-PART RECONCILIATION NEXT**
 
-This is a planning control only. It does not authorize normalization from outside sources and does not itself create English literary prose.
+This control began as planning/setup and now carries the completed E85–E90 source-check decisions.
+
+## Current glossary frontier
+
+- E85–E90 source-check decisions — **COMPLETE**
+- unresolved per-batch glossary holds — **0**
+- outside normalization introduced — **0**
+- exact next — **whole-Part glossary reconciliation across E85–E90**
+
 
 ## Authority rule
 

@@ -48,24 +48,18 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part016 Tamil processing through assembly is **COMPLETE / PASS / CLOSED**.
+Part016 Tamil / assembly is **CLOSED** and the six planned English source-check batches are complete.
 
 - scans — **451–477 / 27**
-- incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- physical source endpoint — **scan477**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
-- final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / CURRENT**
-- Tamil archival-ready — **PASS / CLOSED**
-- textual status — **27/27 verified**
-- visual fidelity — **27/27 verified**
-- assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
-- assembled canonical coverage — **27/27**
-- assembled exact comparisons — **6/6 PASS**
-- unresolved Tamil / assembly issues — **0**
+- Tamil canonical / visual — **27/27 verified / 27/27 verified**
+- Tamil Assembly + Audit — **COMPLETE / PASS / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- reserved English batches — **E85–E90 / 6**
-- reserved maintained English sections — **88–93 / 6**
-- English translated / source-checked — **0/6 / 0/6**
-- exact next — **E85 draft + source-check — section88 / scans451–454**
+- English E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- maintained English sections88–93 — **6/6 SOURCE-CHECKED**
+- source-check controls E1–E90 — **contiguous / missing 0**
+- scan476 invented English body — **0**
+- complete-source endpoint — **scan477**
+- post-endpoint leakage — **0**
+- unresolved E85–E90 holds — **0**
+- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
+- editorial review — **NOT STARTED**

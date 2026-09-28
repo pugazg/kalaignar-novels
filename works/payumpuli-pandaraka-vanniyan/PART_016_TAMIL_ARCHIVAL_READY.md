@@ -120,3 +120,16 @@ Validation:
 Begin **E85 draft + source-check — section88 / scans451–454**.
 
 Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
+
+## Part016 E85–E90 English source-check checkpoint
+
+**E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE.**
+
+- maintained English sections88–93 — **6/6**
+- physical source coverage — **451–477 / 27**
+- source-boundary marker parity — **21/21 / PASS**
+- scan476 invented English body — **0**
+- post-scan477 leakage — **0**
+- Tamil mutations caused by English batches — **0**
+- unresolved source-check holds — **0**
+- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**

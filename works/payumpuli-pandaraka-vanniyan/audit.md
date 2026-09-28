@@ -34,7 +34,7 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 | boundary witnesses available | **PASS** |
 | boundary classifications | **PASS — 15/15 AUDITED / COMPLETE** |
 
-## Current authoritative frontier — Part016 E85 draft + source-check next
+## Current authoritative frontier — Part016 whole-Part English glossary reconciliation next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
 - Part016 canonical Tamil/body — **27/27 verified**
@@ -43,14 +43,16 @@ Where the general novel workflow differs from the work-specific Part lock, the *
 - assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
 - Tamil Assembly + Audit — **COMPLETE / PASS / CLOSED**
 - English planning/setup — **COMPLETE / PASS**
-- reserved English batches — **E85–E90 / 6**
-- reserved maintained English sections — **88–93 / 6**
-- live batch collision check — **PASS / 0 collisions**
-- live English section collision check — **PASS / 0 collisions**
-- English translated / source-checked — **0/6 / 0/6**
-- complete-source endpoint — **scan477**
-- exact next — **E85 draft + source-check — section88 / scans451–454**
-- do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**
+- Part016 English batches — **E85–E90 / 6/6 SOURCE-CHECKED / COMPLETE**
+- maintained Part016 English sections — **88–93 / 6/6 SOURCE-CHECKED**
+- source-check controls — **E1–E90 contiguous / missing 0**
+- maintained English sections — **00–93 contiguous / missing 0**
+- Part016 source-boundary marker parity — **21/21 / PASS**
+- scan476 invented English body — **0**
+- post-scan477 leakage — **0**
+- unresolved E85–E90 source-check holds — **0**
+- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
+- editorial review — **NOT STARTED / BLOCKED UNTIL GLOSSARY RECONCILIATION**
 
 ## Methodology correction
 

@@ -2,7 +2,18 @@
 
 ## Current gate
 
-**PART016 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+**PART016 E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE**
+
+## Current batch closure
+
+- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- maintained English sections88–93 — **6/6 SOURCE-CHECKED**
+- physical source coverage — **451–477 / 27**
+- source-boundary markers — **21/21 / PASS**
+- scan476 invented English body — **0**
+- post-scan477 leakage — **0**
+- unresolved source-check holds — **0**
+- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
 
 ## Reservation
 

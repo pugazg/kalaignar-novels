@@ -1,8 +1,17 @@
 # Part 016 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **PLANNING / SETUP — COMPLETE / PASS**
+Status: **E85–E90 — 6/6 SOURCE-CHECKED / COMPLETE; WHOLE-PART GLOSSARY RECONCILIATION NEXT**
 
 This is the control plan for the project-created English translation of **Part016 only**.
+
+## Current English frontier
+
+- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
+- maintained English sections88–93 — **6/6 SOURCE-CHECKED**
+- source-check controls E1–E90 — **contiguous / missing 0**
+- unresolved batch/source-check holds — **0**
+- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
+- editorial review — **NOT STARTED**
 
 Parts001–015 are **FINAL CLOSED / FROZEN**. Their maintained English files and controls are precedent only and must not be edited merely to advance Part016.
 

@@ -1760,3 +1760,24 @@ Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pa
 - exact next — **E85 draft + source-check — section88 / scans451–454**
 
 Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
+
+
+## Part016 E85–E90 source-check closure checkpoint
+
+**PART016 ENGLISH BATCHES — E85–E90 / 6/6 SOURCE-CHECKED / COMPLETE.**
+
+- maintained English sections — **88–93 / 6/6 SOURCE-CHECKED**
+- physical source coverage — **451–477 / 27**
+- source-check controls — **E85_SOURCE_CHECK.md … E90_SOURCE_CHECK.md / 6/6**
+- global source-check controls — **E1–E90 contiguous / missing 0**
+- maintained English sections — **00–93 contiguous / missing 0**
+- source-boundary marker parity — **21/21 / PASS**
+- scan476 invented English body — **0**
+- scan477 publisher-device — **verbatim / PASS**
+- post-scan477 leakage — **0**
+- canonical / assembled Tamil edits caused by E85–E90 — **0 / 0**
+- frozen Parts001–015 English body edits — **0**
+- unresolved source-check holds — **0**
+- exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
+
+Editorial review is **NOT STARTED**.
