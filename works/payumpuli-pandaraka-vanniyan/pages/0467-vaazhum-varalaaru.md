@@ -6,11 +6,11 @@ printed_page: 460
 work: "payumpuli-pandaraka-vanniyan"
 section: "வாழும் வரலாறு!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed"
 ---
 
 # வாழும் வரலாறு!
@@ -37,7 +37,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 
 எட்வர்ட் மேட்ஜின் மூளையில் எப்படித்தான் அப்படி ஒரு
 சூழ்ச்சி உதித்ததோ தெரியவில்லை. குருவிச்சியின்
-கோபாக்கினிக்கு முன்னே பதிலுக்கு அவனும் கொத்தளிக்காமல்
+கோபாக்கினிக்கு முன்னே பதிலுக்கு அவனும் கொந்தளிக்காமல்
 மிக நிதானமாகச் சிரித்துக் கொண்டே பதில் சொல்ல
 ஆரம்பித்தான்.
 
@@ -53,4 +53,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 - physical page ends mid-sentence at `இந்த முல்லைத்தீவின்`; scan468 resumes `காவலனுமான`
 - Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 467; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 460; PASS 1 TEXT-COMPLETE / textual needs-review / visual needs-review -->
+## Formal Part016 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against rendered Part016 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-visible irregular forms were preserved without modernization;
+- source-confirmed correction: `கொத்தளிக்காமல்` → **`கொந்தளிக்காமல்`** — source lexical / spelling correction;
+- source-text corrections in this scan: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 467; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 17; அச்சுப் பக்கம்: 460; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
