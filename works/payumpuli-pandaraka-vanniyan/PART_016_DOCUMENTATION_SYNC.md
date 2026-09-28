@@ -86,3 +86,18 @@ Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
 - Tamil mutations caused by English batches — **0**
 - unresolved source-check holds — **0**
 - exact next — **Part016 whole-Part English glossary reconciliation across E85–E90**
+
+## Part016 final-closure checkpoint
+
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–016 — **FINAL CLOSED / FROZEN**
+- canonical Part016 Tamil / visual — **27/27 verified / 27/27 verified**
+- assembled Tamil sections88–93 — **6/6 VERIFIED / frozen**
+- English E85–E90 / sections88–93 — **6/6 SOURCE-CHECKED / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- complete source family — **TVA_BOK_0065744 / 477 scans / 16 Parts / CLOSED**
+- terminal endpoint — **scan477**
+- unresolved blockers — **0**
+- durable closure — `PART_016_FINAL_CLOSURE.md`
+- next Part — **none**

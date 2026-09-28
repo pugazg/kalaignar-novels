@@ -194,3 +194,18 @@ Promote only `visual_fidelity` from `needs-review` to `verified` across the 27 a
 - durable validation — `PART_016_ASSEMBLED_TAMIL_VALIDATION.md`
 - English — **NOT STARTED**
 - exact next — **Part016 English translation planning/setup**
+
+## Part016 final-closure checkpoint
+
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- Parts001–016 — **FINAL CLOSED / FROZEN**
+- canonical Part016 Tamil / visual — **27/27 verified / 27/27 verified**
+- assembled Tamil sections88–93 — **6/6 VERIFIED / frozen**
+- English E85–E90 / sections88–93 — **6/6 SOURCE-CHECKED / frozen**
+- glossary / editorial / bilingual / release / release-ready sync — **PASS / PASS / PASS / PASS / PASS**
+- complete source family — **TVA_BOK_0065744 / 477 scans / 16 Parts / CLOSED**
+- terminal endpoint — **scan477**
+- unresolved blockers — **0**
+- durable closure — `PART_016_FINAL_CLOSURE.md`
+- next Part — **none**
