@@ -1,20 +1,19 @@
 # Part 016 — English Translation Plan — பாயும்புலி பண்டாரக வன்னியன்
 
-Status: **E85–E90 SOURCE-CHECKED / COMPLETE; GLOSSARY / EDITORIAL / BILINGUAL PASS; RELEASE/READINESS PASS / CLOSED; RELEASE-READY SYNC NEXT**
+Status: **PART016 ENGLISH CHAIN COMPLETE THROUGH RELEASE-READY SYNC; FINAL CLOSURE NEXT**
 
 This is the control plan for the project-created English translation of **Part016 only**.
 
 ## Current English frontier
 
 - E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
-- maintained English sections88–93 — **6/6 SOURCE-CHECKED**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
-- whole-Part English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
-- unresolved English/release holds — **0**
-- exact next — **Part016 release-ready synchronization**
-- final closure — **BLOCKED UNTIL RELEASE-READY SYNC CLOSES**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part016 English blockers — **0**
+- exact next — **Part016 final closure**
 
 Parts001–015 are **FINAL CLOSED / FROZEN**. Their maintained English files and controls are precedent only and must not be edited merely to advance Part016.
 
@@ -307,3 +306,13 @@ Exact next gate — **Part016 whole-Part English glossary reconciliation across 
 - unresolved release blockers — **0**
 - durable report — `PART_016_RELEASE_REPORT.md`
 - exact next — **Part016 release-ready synchronization**
+
+## Release-ready synchronization checkpoint
+
+**PART016 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED.**
+
+- canonical / assembled / maintained-English body changes — **0 / 0 / 0**
+- complete-source endpoint — **scan477**
+- unresolved synchronization holds — **0**
+- durable record — `../PART_016_RELEASE_READY_SYNC.md`
+- exact next — **Part016 final closure**

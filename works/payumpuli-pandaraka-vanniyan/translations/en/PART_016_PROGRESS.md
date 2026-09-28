@@ -2,20 +2,18 @@
 
 ## Current gate
 
-**PART016 RELEASE/READINESS — PASS / CLOSED**
+**PART016 RELEASE-READY SYNCHRONIZATION — PASS / CLOSED**
 
 ## Current batch closure
 
 - E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
-- maintained English sections88–93 — **6/6 SOURCE-CHECKED**
-- whole-Part glossary reconciliation — **RECONCILED / PASS**
-- whole-Part English editorial review — **PASS / CLOSED**
-- whole-Part bilingual review — **PASS / CLOSED**
+- glossary reconciliation — **RECONCILED / PASS**
+- editorial review — **PASS / CLOSED**
+- bilingual review — **PASS / CLOSED**
 - release/readiness — **PASS / CLOSED**
-- physical source coverage — **451–477 / 27**
-- source-boundary markers — **21/21 / PASS**
-- unresolved release blockers — **0**
-- exact next — **Part016 release-ready synchronization**
+- release-ready synchronization — **PASS / CLOSED**
+- unresolved Part016 English/release blockers — **0**
+- exact next — **Part016 final closure**
 
 ## Reservation
 
@@ -65,9 +63,7 @@
 
 ## Exact next gate
 
-Perform **Part016 release-ready synchronization**.
-
-Do not create final closure until release-ready synchronization is **PASS / CLOSED**.
+Create and verify **Part016 final closure**.
 
 ## E85 completion checkpoint
 
@@ -185,3 +181,11 @@ Exact next — **Part016 whole-Part English glossary reconciliation**.
 - glossary / editorial / bilingual — **PASS / PASS / PASS**
 - release blockers — **0**
 - exact next — **Part016 release-ready synchronization**
+
+## Release-ready synchronization checkpoint
+
+- result — **PASS / CLOSED**
+- body changes — **0**
+- unresolved holds — **0**
+- complete-source endpoint — **scan477**
+- exact next — **Part016 final closure**
