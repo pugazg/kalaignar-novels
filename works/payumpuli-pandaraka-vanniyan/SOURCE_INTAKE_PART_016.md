@@ -48,7 +48,7 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part 016 is **ACTIVE / PASS1 COMPLETE 27/27 / PASS2A BATCH1 NEXT**.
+Part 016 is **ACTIVE / PASS2A 10/27 REVIEWED / BATCH2 NEXT**.
 
 - source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
 - global scans — **451–477 / 27**
@@ -56,23 +56,15 @@ Part 016 is **ACTIVE / PASS1 COMPLETE 27/27 / PASS2A BATCH1 NEXT**.
 - incoming **450→451 — CLEAN / AUDITED / PASS**
 - outgoing split boundary — **none**
 - physical source endpoint — **scan477**
-- canonical records — **27/27**
-- Pass1 text-complete — **27/27**
-- Pass1 pending — **0**
-- observed printed folios — **444–467**
-- unnumbered end-matter scans — **475–477**
-- chapter72 — **closes scan454**
-- chapter73 `திறமையை வென்ற திறமை!` — **opens455 / closes460**
-- chapter74 `காக்கையும் குருவியும்!` — **opens461 / closes466**
-- chapter75 `வாழும் வரலாறு!` — **opens467 / closes473 with `(முற்றும்)`**
-- scan474 — **author note**
-- scan475 — **photographic end matter**
-- scan476 — **full-page illustration / no printed body**
-- scan477 — **back-cover / publisher-device / complete-source endpoint**
-- textual status — **27/27 needs-review**
+- Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
+- Pass2A reviewed — **10/27 — scans451–460**
+- Pass2A remaining — **17**
+- Batch1 corrections — **13**
+- Batch1 correction scans — **451, 453, 455, 456, 457, 458, 459**
+- textual status — **10 verified / 17 needs-review**
 - visual fidelity — **27/27 needs-review**
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- exact next — **Pass2A Batch1 — scans451–460 / local1–10**
+- exact next — **Pass2A Batch2 — scans461–470 / local11–20**
 - fixed Pass2A iteration — **10 physical source pages**
 
-Do not review scan461 or later in the first Pass2A iteration.
+Do not review scan471 or later in Batch2.
