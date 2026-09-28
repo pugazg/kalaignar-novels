@@ -81,20 +81,14 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 - Part016 source — `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf`
 - source SHA-256 — `82ca2020407e0996abfa2d3b29a192c56419f3f7da22a5a9d3d5dd5b8f9c3c6c`
 - Part016 scans — **451–477 / 27**
-- incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
-- canonical records — **27/27**
 - Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
-- printed folios — **444–467**
-- unnumbered end matter — **475–477**
-- story body closes scan473 with **`(முற்றும்)`**
-- scan474 — **author note**
-- scan475 — **memorial photograph/caption**
-- scan476 — **illustration-only**
-- scan477 — **back-cover / publisher-device / complete-source endpoint**
-- textual status — **27/27 needs-review**
+- Pass2A Batch1 scans451–460 — **COMPLETE / REVIEWED / PASS**
+- Pass2A corrections — **13**
+- correction scans — **451, 453, 455, 456, 457, 458, 459**
+- textual status — **10 verified / 17 needs-review**
 - visual fidelity — **27/27 needs-review**
-- Pass2A — **NOT STARTED / UNBLOCKED**
-- exact next — **Part016 Pass2A Batch1 — scans451–460 / local1–10**
+- complete-source endpoint — **scan477**
+- exact next — **Part016 Pass2A Batch2 — scans461–470 / local11–20**
 
 ## User-supplied descriptive note
 
