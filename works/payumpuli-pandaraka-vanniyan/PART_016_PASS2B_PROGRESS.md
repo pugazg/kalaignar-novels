@@ -2,7 +2,7 @@
 
 ## Gate
 
-**PASS 2B — ACTIVE — 20/27 REVIEWED / BATCH3 NEXT**
+**PASS 2B — COMPLETE / PASS — 27/27 REVIEWED**
 
 Prerequisites:
 - Part016 Pass1 — **COMPLETE / PASS — 27/27 TEXT-COMPLETE**
@@ -19,7 +19,7 @@ Prerequisites:
 - **10 source pages per iteration**
 - Batch1 — **scans451–460 / local1–10 / printed444–453 — COMPLETE**
 - Batch2 — **scans461–470 / local11–20 / printed454–463 — COMPLETE**
-- Batch3 — **scans471–477 / local21–27 / printed464–467 + unnumbered end matter — NEXT**
+- Batch3 — **scans471–477 / local21–27 / printed464–467 + unnumbered end matter — COMPLETE**
 - do not exceed the fixed Pass2B batch boundary unless the user explicitly overrides it
 
 ## Scope and method
@@ -144,10 +144,69 @@ No reform-sensitive occurrence in scans461–470 required a canonical Unicode gl
 - frozen Parts001–015 canonical / assembled / maintained-English body mutations — **0**
 - Pass3 — **NOT STARTED / BLOCKED UNTIL PASS2B COMPLETE**
 
+## Batch 3 correction ledger — scans471–477
+
+| Scan | Printed page | Before | Source-confirmed after | Classification |
+|---:|---:|---|---|---|
+| 471 | 464 | `கோதிவிட்டவாறு, பண்டாரகன் அவளுக்கு` | **`கோதிவிட்டவாறு,பண்டாரகன் அவளுக்கு`** | source-visible punctuation spacing |
+
+Scans **472–477** required **0** additional Pass2B canonical-body corrections.
+
+## Batch 3 historical-glyph review
+
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+
+No reform-sensitive occurrence in scans471–477 required a canonical Unicode glyph correction after direct source-pixel inspection.
+
+## Batch 3 source locks reconfirmed
+
+- scan471 / printed464 resumes the scan470 split **`பண்டாரக` + `வன்னியன்.`**, preserves source **`கோதிவிட்டவாறு,பண்டாரகன்`**, and ends mid-dialogue at **`வாளையும் ஈட்டியையும்`**;
+- scan472 / printed465 resumes **`வைத்துக் கொண்டே`**, preserves source **`அப்படி யென்ன`**, and ends at **`பண்டாரக வன்னியனின்`**;
+- scan473 / printed466 resumes **`கட்டுக்கள் களையப்பட்டன.`**, closes chapter75 / story body, and preserves source ending **`(முற்றும்)`**;
+- scan474 / printed467 remains the post-story author note **`குறிப்பு:-`**, signed **`மு. க.`**, with its substantial intentional blank lower field;
+- scan475 remains unnumbered photographic end matter headed **`கண்டி விக்கிரம ராஜ சிங்கனின் நினைவு முத்து மண்டபம்`**, with the source-visible memorial caption retained;
+- scan476 remains an unnumbered full-page colour narrative battle illustration with **no printed textual body** and **no visible folio**;
+- scan477 remains the unnumbered back-cover portrait / publisher-device with **`ROCK FORT Publications (p) Ltd.`** and **`MADRAS - 600032`**, and is the **physical endpoint of the complete 477-scan source family**;
+- no continuation beyond scan477 is inferred or invented.
+
+## Batch 3 decision
+
+**PASS — scans471–477 independently reviewed.**
+
+- reviewed — **27/27**
+- remaining — **0**
+- Batch1 additional corrections — **3**
+- Batch2 additional corrections — **12**
+- Batch3 additional corrections — **1**
+- cumulative Pass2B additional corrections — **16**
+- Batch3 correction scans — **471**
+- cumulative correction scans — **453, 455, 458, 463, 465, 467, 468, 469, 470, 471**
+- historical-glyph corrections — **0**
+- unresolved questions — **0**
+- textual status — **27/27 verified**
+- visual fidelity — **27/27 needs-review**
+- frozen Parts001–015 canonical / assembled / maintained-English body mutations — **0**
+- complete-source endpoint — **scan477**
+
+## Pass2B closure decision
+
+**PART016 PASS 2B — COMPLETE / PASS — 27/27 REVIEWED.**
+
+- cumulative additional source-supported corrections — **16**
+- historical-glyph corrections — **0**
+- unresolved lexical / historical-glyph questions — **0**
+- textual status — **27/27 verified**
+- visual fidelity — **27/27 needs-review**
+- incoming **450→451 — CLEAN / AUDITED / PASS**
+- complete-source endpoint — **scan477**
+- frozen Parts001–015 mutations — **0**
+- Pass3 — **NOT STARTED / UNBLOCKED**
+
 ## Exact next activity
 
-Proceed with **Part016 Pass2B Batch3 — global scans471–477 / local pages21–27 / printed464–467 + unnumbered end matter**.
+Proceed with **Part016 Pass3 Batch1 — global scans451–460 / local pages1–10 / printed444–453**.
 
-Independently re-review exactly **7 physical source scans** against rendered source pixels and the Pass2A canonical records. Concentrate on residual lexical/source-text fidelity, historical-glyph questions, source-specific spacing/word boundaries, punctuation, end-matter text and complete-source endpoint fidelity.
+Review exactly **10 physical source scans** for visual / structural fidelity: displayed chapter hierarchy, boxed chapter numbers/titles, recurring border/page furniture, printed folios, paragraph/dialogue layout, intentional blank fields, physical continuation locks, and any illustration/end-matter classification issues visible in the batch. Do not modernize or rewrite canonical Tamil merely for style.
 
-Do not begin Pass3 in the same Pass2B iteration.
+Do not review scan461 or later in the same Pass3 iteration.
