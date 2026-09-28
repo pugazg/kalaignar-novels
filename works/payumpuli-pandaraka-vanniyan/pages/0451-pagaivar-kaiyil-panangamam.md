@@ -6,11 +6,11 @@ printed_page: 444
 work: "payumpuli-pandaraka-vanniyan"
 section: "பகைவர் கையில் பனங்காமம்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460; formal Part016 Pass 2A reviewed"
 ---
 
 # பகைவர் கையில் பனங்காமம்!
@@ -21,7 +21,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 
 என்னதான் ஆதிக்கவெறியர்களாக ஆங்கிலேயர் இருந்த போதிலும் - இறந்துவிட்ட ஊமைச்சி நாச்சியாருக்கு இறுதிக் கடனாற்ற தனக்குத் தடை விதிக்காததை எண்ணி அவள் பெருமிதத்துடன் ஆங்கிலேயரின் பண்பாட்டைத் தனக்குள் பாராட்டிக் கொண்டாள்.
 
-இருபுறமும் குருவிச்சிக்கு மரியாதை அணிவகுப்பு நடத்திக் கெளரவிப்பதைப்போல் வெள்ளைக்கார வீரர்கள் குதிரைகளில் அமர்ந்து, கைகளில் துப்பாக்கிகளை உயர்த்திப் பிடித்து, அதே சமயம் தலைகளைக் குனிந்து அவளுக்கு வணக்கம் தெரிவித்தனர்.
+இருபுறமும் குருவிச்சிக்கு மரியாதை அணிவகுப்பு நடத்தி கெளரவிப்பதைப்போல் வெள்ளைக்கார வீரர்கள் குதிரைகளில் அமர்ந்து, கைகளில் துப்பாக்கிகளை உயர்த்திப் பிடித்து, அதே சமயம் தலைகளைக் குனிந்து அவளுக்கு வணக்கம் தெரிவித்தனர்.
 
 குருவிச்சி, பனங்காமம் கோட்டைக்குள் நுழைந்ததும் - ஒரு ஆங்கிலேய அதிகாரி, அவளைப் பார்த்து, “சற்று இங்கேயே நிற்க வேண்டுகிறேன்” என்றான். குருவிச்சி மறுக்கவில்லை! நின்றாள்! கவனித்தாள்! நாலைந்து பிரிட்டிஷ் வீரர்கள், வெள்ளைத் தட்டுகளில் மலர்களை நிறைத்துக் கொண்டு குருவிச்சியின் முன்னே வந்து நின்றனர்.
 
@@ -43,4 +43,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 - direct rendered source pixels are authoritative; OCR/outside-source comparison not used as source authority
 - Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 451; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 444; PASS 1 TEXT-COMPLETE / textual needs-review / visual needs-review -->
+## Formal Part016 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against rendered Part016 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-visible irregular forms were preserved without modernization;
+- source-confirmed correction: `நடத்திக் கெளரவிப்பதைப்போல்` → **`நடத்தி கெளரவிப்பதைப்போல்`** — source word-boundary / morphology;
+- source-text corrections in this scan: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 451; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 1; அச்சுப் பக்கம்: 444; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->

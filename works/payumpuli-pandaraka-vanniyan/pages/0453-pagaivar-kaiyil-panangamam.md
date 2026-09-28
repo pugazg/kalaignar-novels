@@ -6,11 +6,11 @@ printed_page: 446
 work: "payumpuli-pandaraka-vanniyan"
 section: "பகைவர் கையில் பனங்காமம்!"
 page_type: "body"
-status: "needs-review"
+status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 scans451–460; formal Part016 Pass 2A reviewed"
 ---
 
 # பகைவர் கையில் பனங்காமம்!
@@ -19,7 +19,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 
 தகவல் தந்தான்.
 
-குருவிச்சி சுவரோரம் சென்று, அந்த ரத்தத்துளிகளைத் தன் கைகளால் சுரண்டி எடுத்து, தனது நெற்றியில் வீரத் திலகமாக இட்டுக் கொண்டாள்.
+குருவிச்சி சுவரோரம் சென்று, அந்த ரத்தத்துளிகளைத் தன் கைகளால் சுரண்டியெடுத்து, தனது நெற்றியில் வீரத் திலகமாக இட்டுக் கொண்டாள்.
 
 “இந்தக் கூடத்திலேயே அமருங்கள்! விரைவில் உணவு தயாராகிவிடும்” என்று நாற்காலியைக் காட்டினான் அதிகாரி.
 
@@ -51,4 +51,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch1 s
 - physical page ends at `அந்தக் கூடத்தில்`; scan454 resumes `நின்றாள் எனினும்`
 - Pass1 textual status remains **needs-review** pending Pass2A; visual fidelity remains **needs-review**
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 453; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 446; PASS 1 TEXT-COMPLETE / textual needs-review / visual needs-review -->
+## Formal Part016 Pass 2A review
+
+- direct word-by-word textual source-fidelity comparison completed against rendered Part016 source pixels;
+- spelling, punctuation, source-specific spacing / word boundaries, paragraph/dialogue structure, displayed hierarchy, printed pagination and physical page-end state were checked;
+- source-visible irregular forms were preserved without modernization;
+- source-confirmed correction: `சுரண்டி எடுத்து` → **`சுரண்டியெடுத்து`** — source join / word-boundary;
+- source-text corrections in this scan: **1**;
+- unresolved textual questions: **0**;
+- Pass 2A result for this scan: **REVIEWED / PASS**;
+- textual `status` is **verified** after this Pass 2A review;
+- `visual_fidelity` remains **needs-review** pending later visual gates.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 453; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 3; அச்சுப் பக்கம்: 446; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
