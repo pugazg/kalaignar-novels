@@ -164,3 +164,14 @@ This gate introduced:
 ## Exact next gate
 
 Perform **Part016 whole-Part English editorial review**.
+
+## Part016 English editorial-review checkpoint
+
+**PART016 ENGLISH EDITORIAL REVIEW — PASS / CLOSED.**
+
+- maintained files reviewed — **6/6**
+- glossary-driven English body corrections — **0**
+- editorial English body corrections — **0**
+- unresolved editorial holds — **0**
+- durable review — `PART_016_TRANSLATION_REVIEW.md`
+- exact next — **Part016 whole-Part bilingual review**

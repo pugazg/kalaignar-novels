@@ -2,19 +2,20 @@
 
 ## Current gate
 
-**PART016 WHOLE-PART GLOSSARY RECONCILIATION — RECONCILED / PASS**
+**PART016 ENGLISH EDITORIAL REVIEW — PASS / CLOSED**
 
 ## Current batch closure
 
 - E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE**
 - maintained English sections88–93 — **6/6 SOURCE-CHECKED**
 - whole-Part glossary reconciliation — **RECONCILED / PASS**
+- whole-Part English editorial review — **PASS / CLOSED**
 - physical source coverage — **451–477 / 27**
 - literary / printed blocks — **171/171**
 - source-boundary markers — **21/21 / PASS**
-- glossary-driven body corrections — **0**
-- unresolved glossary holds — **0**
-- exact next — **Part016 whole-Part English editorial review**
+- editorial English body corrections — **0**
+- unresolved editorial holds — **0**
+- exact next — **Part016 whole-Part bilingual review**
 
 ## Reservation
 
@@ -64,9 +65,9 @@
 
 ## Exact next gate
 
-Perform **Part016 whole-Part English editorial review**.
+Perform **Part016 whole-Part bilingual review**.
 
-Do not begin bilingual review until editorial review is **PASS / CLOSED**.
+Do not begin release/final-closure gates until bilingual review is **PASS / CLOSED**.
 
 ## E85 completion checkpoint
 
@@ -152,3 +153,15 @@ Exact next — **Part016 whole-Part English glossary reconciliation**.
 - English-body corrections — **0**
 - unresolved holds — **0**
 - exact next — **Part016 whole-Part English editorial review**
+
+## Whole-Part English editorial-review checkpoint
+
+- result — **PASS / CLOSED**
+- maintained English files reviewed — **6/6**
+- glossary reconciliation prerequisite — **PASS**
+- literary / printed blocks — **171/171**
+- source-boundary parity — **21/21**
+- quotation / parenthetical balance — **PASS**
+- additional English body corrections — **0**
+- unresolved editorial holds — **0**
+- exact next — **Part016 whole-Part bilingual review**
