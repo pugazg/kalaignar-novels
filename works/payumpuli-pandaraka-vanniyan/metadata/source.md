@@ -84,13 +84,16 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 - Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
+- documentation synchronization — **PASS / CURRENT**
 - Tamil archival-ready — **PASS / CLOSED**
 - textual status — **27/27 verified**
 - visual fidelity — **27/27 verified**
+- assembled-reading range — **sections88–93 / 6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **27/27**
+- assembly validation — **6/6 EXACT / PASS**
 - complete-source endpoint — **scan477 / back cover / publisher-device**
-- reserved assembled-reading range — **sections88–93**
-- exact next — **Part016 assembled Tamil construction + audit**
+- English — **NOT STARTED**
+- exact next — **Part016 English translation planning/setup**
 
 ## User-supplied descriptive note
 

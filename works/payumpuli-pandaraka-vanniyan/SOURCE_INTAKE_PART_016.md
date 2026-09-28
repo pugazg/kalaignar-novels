@@ -48,7 +48,7 @@ The canonical `scan_page` remains the overall scan number **451–477**.
 
 ## Current gate
 
-Part016 Tamil archival state is **PASS / CLOSED**.
+Part016 Tamil processing through assembly is **COMPLETE / PASS / CLOSED**.
 
 - scans — **451–477 / 27**
 - incoming **450→451 — CLEAN CONTINUATION / AUDITED / PASS**
@@ -56,11 +56,13 @@ Part016 Tamil archival state is **PASS / CLOSED**.
 - Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
 - Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
+- documentation synchronization — **PASS / CURRENT**
 - Tamil archival-ready — **PASS / CLOSED**
 - textual status — **27/27 verified**
 - visual fidelity — **27/27 verified**
-- unresolved items — **0**
-- reserved assembled section range — **88–93 / collisions 0**
-- exact next — **Part016 assembled Tamil construction + audit**
-- English — **NOT STARTED / BLOCKED UNTIL ASSEMBLED TAMIL CLOSES**
+- assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **27/27**
+- assembled exact comparisons — **6/6 PASS**
+- unresolved Tamil / assembly issues — **0**
+- English — **NOT STARTED**
+- exact next — **Part016 English translation planning/setup**

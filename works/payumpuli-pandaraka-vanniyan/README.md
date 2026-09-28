@@ -7,21 +7,23 @@
 **Working source:** 16 split PDFs — all supplied / registered  
 **Source PDFs in repository:** No
 
-## Current authoritative frontier — Part016 assembled Tamil construction + audit next
+## Current authoritative frontier — Part016 English translation planning/setup next
 
 - Parts001–015 — **FINAL CLOSED / FROZEN**
-- Part016 canonical Tamil/body — **27/27 verified**
-- Part016 visual fidelity — **27/27 verified**
-- Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
-- Part audit — **PASS / COMPLETE**
+- Part016 Pass1 / Pass2A / Pass2B / Pass3 — **COMPLETE / PASS**
+- Part016 Part audit — **PASS / COMPLETE**
 - final metadata/status synchronization — **PASS / CLOSED**
-- documentation synchronization — **PASS / COMPLETE**
+- documentation synchronization — **PASS / CURRENT**
 - Tamil archival-ready — **PASS / CLOSED**
-- maintained assembled frontier — **section87**
-- reserved Part016 sections — **88–93 / collisions 0**
+- canonical Tamil/body — **27/27 verified**
+- visual fidelity — **27/27 verified**
+- assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
+- assembled canonical coverage — **27/27**
+- assembled exact canonical comparisons — **6/6 PASS**
+- assembly omissions / duplicates / unsupported insertion — **0 / 0 / 0**
 - complete-source endpoint — **scan477**
-- exact next — **construct + audit Part016 assembled Tamil sections88–93**
-- English — **DO NOT START**
+- English — **NOT STARTED**
+- exact next — **Part016 English translation planning/setup**
 
 ## Part001 — FINAL CLOSED / FROZEN
 

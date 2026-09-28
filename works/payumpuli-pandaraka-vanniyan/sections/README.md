@@ -508,17 +508,21 @@ Durable final record:
 Exact next activity: directly audit **300→301**; if usable, begin **Part011 Pass1 scans301–310 / local pages1–10**. Do not reopen frozen Parts001–010 merely to advance Part011.
 
 
-## Part016 archival-ready / assembly frontier
+## Part016 — PASS / CLOSED through Tamil Assembly + Audit
 
-**PART016 TAMIL ARCHIVAL-READY — PASS / CLOSED.**
-
-- canonical scans — **451–477 / 27**
-- canonical Tamil/body status — **27/27 verified**
+- canonical Part016 scans — **451–477 / 27**
+- canonical Tamil/body — **27/27 verified**
 - visual fidelity — **27/27 verified**
-- maintained section frontier — **87**
-- reserved Part016 range — **88–93**
-- collision check — **0**
-- planned units — chapter72 continuation, chapters73–75, author note, terminal end matter
+- Tamil archival-ready — **PASS / CLOSED**
+- assembled Tamil files — **6/6 VERIFIED / CLOSED**
+- section-order range — **88–93**
+- represented canonical pages — **27/27**
+- exact canonical comparison — **6/6 PASS**
+- omitted / duplicated canonical pages — **0 / 0**
+- unsupported body insertion — **0**
+- workflow-note leakage — **0**
+- frozen sections00–87 modifications — **0**
 - complete-source endpoint — **scan477**
-- exact next — **construct + audit Part016 sections88–93**
-- English — **BLOCKED UNTIL ASSEMBLED TAMIL CLOSES**
+- validation — `../PART_016_ASSEMBLED_TAMIL_VALIDATION.md`
+- English — **NOT STARTED**
+- exact next — **Part016 English translation planning/setup**
