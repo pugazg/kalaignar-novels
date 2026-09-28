@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 scans471–477; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 scans471–477; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed; formal Part016 Pass 3 reviewed"
 ---
 
 # வாழும் வரலாறு!
@@ -66,4 +66,15 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch3 s
 - textual `status` remains **verified**;
 - `visual_fidelity` remains **needs-review** pending Pass3.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 472; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 465; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / visual needs-review -->
+## Formal Part016 Pass 3 review
+
+- direct full-page visual / structural verification completed against the rendered Part016 source image;
+- page type, printed pagination where present, recurring border/page furniture, paragraph/dialogue block placement, displayed hierarchy, intentional blank fields, end-matter classification and physical page-end state were checked as applicable;
+- printed folio **465**; chapter75 continuation; recurring bordered text-page furniture and dialogue/action placement confirmed; resumes `வைத்துக் கொண்டே` and ends mid-sentence at `பண்டாரக வன்னியனின்`.
+- Tamil/body-text corrections in Pass 3: **0**;
+- unresolved visual / structural questions: **0**;
+- Pass 3 result for this scan: **REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** until Part audit and final metadata/status synchronization.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 472; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 22; அச்சுப் பக்கம்: 465; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / PASS 3 VISUAL-STRUCTURAL REVIEWED / visual needs-review -->
