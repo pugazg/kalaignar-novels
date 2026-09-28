@@ -58,8 +58,18 @@ Final assembled state:
 
 **PART016 DOCUMENTATION SYNCHRONIZATION — PASS / CURRENT THROUGH TAMIL ASSEMBLY + AUDIT**
 
+## English planning/setup checkpoint
+
+**PART016 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+- reserved batches — **E85–E90 / 6**
+- reserved English sections — **88–93 / 6**
+- collision checks — **PASS / 0**
+- English literary prose drafted in setup — **0**
+- unresolved planning holds — **0**
+
 ## Exact next activity
 
-Begin **Part016 English translation planning/setup** only when explicitly requested.
+Begin **E85 draft + source-check — section88 / scans451–454**.
 
-English literary prose has **not** been started.
+Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.

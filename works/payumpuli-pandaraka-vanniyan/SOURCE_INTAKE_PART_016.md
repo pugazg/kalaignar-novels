@@ -4,7 +4,7 @@ Source: `TVA_BOK_0065744_பாயும்புலி_பண்டாரக_�
 
 ## Intake result
 
-**PART016 TAMIL ARCHIVAL-READY — PASS / CLOSED; ASSEMBLED TAMIL CONSTRUCTION + AUDIT NEXT.**
+**PART016 TAMIL / ASSEMBLY — CLOSED; ENGLISH PLANNING / SETUP — COMPLETE / PASS; E85 NEXT.**
 
 - local PDF pages: **27**;
 - canonical overall scans: **451–477**;
@@ -64,5 +64,8 @@ Part016 Tamil processing through assembly is **COMPLETE / PASS / CLOSED**.
 - assembled canonical coverage — **27/27**
 - assembled exact comparisons — **6/6 PASS**
 - unresolved Tamil / assembly issues — **0**
-- English — **NOT STARTED**
-- exact next — **Part016 English translation planning/setup**
+- English planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E85–E90 / 6**
+- reserved maintained English sections — **88–93 / 6**
+- English translated / source-checked — **0/6 / 0/6**
+- exact next — **E85 draft + source-check — section88 / scans451–454**

@@ -120,3 +120,16 @@ Do not begin English translation work.
 - durable controls — `PART_016_DOCUMENTATION_SYNC.md`, `PART_016_TAMIL_ARCHIVAL_READY.md`, `PART_016_ASSEMBLED_TAMIL_VALIDATION.md`
 - English — **NOT STARTED**
 - exact next — **Part016 English translation planning/setup**
+
+## Part016 English planning/setup checkpoint
+
+**PART016 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS.**
+
+- Tamil canonical / visual — **27/27 verified / 27/27 verified**
+- assembled Tamil — **sections88–93 / 6/6 VERIFIED / CLOSED**
+- reserved English batches — **E85–E90 / 6**
+- reserved maintained English sections — **88–93 / 6**
+- collision checks — **PASS / 0**
+- English literary prose drafted in setup — **0**
+- active controls — `translations/en/PART_016_TRANSLATION_PLAN.md`, `PART_016_GLOSSARY.md`, `PART_016_PROGRESS.md`
+- exact next — **E85 draft + source-check — section88 / scans451–454**

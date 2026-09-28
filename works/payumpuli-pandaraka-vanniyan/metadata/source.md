@@ -92,8 +92,11 @@ Durable policy: [`../MULTIPART_SOURCE_POLICY.md`](../MULTIPART_SOURCE_POLICY.md)
 - assembled canonical coverage — **27/27**
 - assembly validation — **6/6 EXACT / PASS**
 - complete-source endpoint — **scan477 / back cover / publisher-device**
-- English — **NOT STARTED**
-- exact next — **Part016 English translation planning/setup**
+- English planning/setup — **COMPLETE / PASS**
+- reserved English batches — **E85–E90 / 6**
+- reserved maintained English sections — **88–93 / 6**
+- English translated / source-checked — **0/6 / 0/6**
+- exact next — **E85 draft + source-check — section88 / scans451–454**
 
 ## User-supplied descriptive note
 

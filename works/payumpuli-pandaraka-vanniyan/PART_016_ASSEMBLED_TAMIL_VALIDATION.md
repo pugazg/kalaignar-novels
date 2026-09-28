@@ -137,8 +137,19 @@ Final audit targets:
 - post-endpoint leakage — **0**
 - unresolved assembly blockers — **0**
 
+## English planning/setup checkpoint
+
+**PART016 ENGLISH TRANSLATION PLANNING / SETUP — COMPLETE / PASS**
+
+- prior source-check frontier — **E84**
+- reserved Part016 batches — **E85–E90 / 6**
+- reserved maintained English sections — **88–93 / 6**
+- batch / section collisions — **0 / 0**
+- English literary prose drafted during setup — **0**
+- active controls — `translations/en/PART_016_TRANSLATION_PLAN.md`, `PART_016_GLOSSARY.md`, `PART_016_PROGRESS.md`
+
 ## Exact next gate
 
-**Part016 English translation planning/setup** is the next gate.
+Begin **E85 draft + source-check — section88 / scans451–454**.
 
-English work is **NOT STARTED** by this validation. Do not draft English prose until the planning/setup gate is explicitly begun.
+Do not begin E86 until E85 is **SOURCE-CHECKED / COMPLETE**.
