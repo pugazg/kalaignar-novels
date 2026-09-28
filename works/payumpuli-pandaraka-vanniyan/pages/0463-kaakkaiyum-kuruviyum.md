@@ -10,7 +10,7 @@ status: "verified"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0065744_பாயும்புலி_பண்டாரக_வன்னியன்_part_016_pages_451-477.pdf"
-transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed"
+transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 scans461–470; formal Part016 Pass 2A reviewed; formal Part016 Pass 2B reviewed"
 ---
 
 # காக்கையும் குருவியும்!
@@ -20,7 +20,7 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 “எட்வர்ட்! என் ஆசையொன்று! அதை நிறைவேற்றிவிட்டு
 இங்கிருந்து முல்லைத்தீவுக்குப் புறப்படலாமே!”
 
-இதைக் சொல்லும்போது வாண்டரி பெர்க்கிற்கு அவனைய
+இதைச் சொல்லும்போது வாண்டரி பெர்க்கிற்கு அவனைய
 மறியாமல் ஒரு நாணம் தலையில் பெரும் சுமையாக இறங்கி,
 அவன் தலையைக் கீழ்நோக்கிக் குனியச் செய்தது!
 
@@ -80,4 +80,16 @@ transcription_method: "direct source-pixel transcription; Part016 Pass1 Batch2 s
 - textual `status` is **verified** after this Pass 2A review;
 - `visual_fidelity` remains **needs-review** pending later visual gates.
 
-<!-- மூல மொத்த ஸ்கேன் பக்கம்: 463; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 456; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / visual needs-review -->
+## Formal Part016 Pass 2B review
+
+- independent second textual reread completed directly against rendered source pixels and the Pass2A canonical record;
+- lexical identity, source-specific compounds/joins, word boundaries, punctuation/quotation boundaries, and reform-sensitive historical/variant glyph occurrences were checked without modernization;
+- additional source-confirmed correction: `இதைக் சொல்லும்போது` → **`இதைச் சொல்லும்போது`** — source sandhi / lexical-form reread correction;
+- additional Pass2B source-text corrections in this scan: **1**;
+- historical-glyph corrections in this scan: **0**;
+- unresolved lexical / historical-glyph questions: **0**;
+- Pass 2B result for this scan: **INDEPENDENTLY REVIEWED / PASS**;
+- textual `status` remains **verified**;
+- `visual_fidelity` remains **needs-review** pending Pass3.
+
+<!-- மூல மொத்த ஸ்கேன் பக்கம்: 463; பகுதி: 016; பகுதி உள்ளூர் பக்கம்: 13; அச்சுப் பக்கம்: 456; PASS 1 TEXT-COMPLETE / PASS 2A TEXT VERIFIED / PASS 2B INDEPENDENT TEXT VERIFIED / visual needs-review -->
