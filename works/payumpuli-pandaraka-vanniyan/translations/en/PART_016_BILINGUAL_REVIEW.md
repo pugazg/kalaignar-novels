@@ -139,3 +139,17 @@ Perform **Part016 release/readiness review**.
 - maintained English body changes — **0**
 - durable report — `PART_016_RELEASE_REPORT.md`
 - exact next — **Part016 release-ready synchronization**
+
+## Part016 final-closure checkpoint
+
+**PART016 FINAL CLOSURE — PASS / CLOSED / FROZEN.**
+
+- E85–E90 — **6/6 SOURCE-CHECKED / COMPLETE / frozen**
+- maintained English sections88–93 — **6/6 / frozen**
+- whole-Part glossary / editorial / bilingual review chain — **PASS / CLOSED**
+- release/readiness / release-ready sync — **PASS / CLOSED**
+- complete-source endpoint — **scan477**
+- post-endpoint leakage — **0**
+- unresolved blockers — **0**
+- durable closure — `../PART_016_FINAL_CLOSURE.md`
+- next Part — **none**
