@@ -7,7 +7,7 @@
 - **LIVE MAIN IS AUTHORITATIVE.**
 - Active work: `works/ore-ratham/`
 
-## Current authoritative frontier — ஒரே இரத்தம் page/structure map complete; Pass1 Batch1 next
+## Current authoritative frontier — ஒரே இரத்தம் Pass1 Batch1 active
 
 - source ID — **TVA_BOK_0064094**
 - work path — `works/ore-ratham/`
@@ -21,8 +21,11 @@
 - chapter starts — **23/23 mapped**
 - duplicate physical captures — **scan118→p116; scan119→p117**
 - processing split PDFs — **14/14 VERIFIED / 136 pages continuous**
-- canonical page records — **0/136**
-- exact next — **Pass1 Batch1 — scans1–10 / processing split part001**
+- canonical page records — **9/136**
+- Pass1 text-complete — **5/136**
+- Pass1 partial — **4/136**
+- scan7 record — **pending**
+- exact next — **resolve scans4, 7, 8, 9, 10; do not start scan11**
 - assembled Tamil / English — **BLOCKED**
 
 ## Source family
