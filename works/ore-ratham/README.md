@@ -7,7 +7,7 @@
 **Source scan:** **136 physical PDF pages**  
 **Source PDF committed to repository:** **No**
 
-## Current authoritative frontier — full page/structure map complete; Pass1 Batch1 next
+## Current authoritative frontier — Pass1 Batch1 active / unresolved holds
 
 - source registration — **COMPLETE / PASS**
 - repository work path — `works/ore-ratham/`
@@ -21,11 +21,14 @@
 - physical-scan manifest — **136/136 mapped**
 - displayed chapter starts — **23/23 mapped**
 - repeated physical captures — **scans118–119 = printed pp.116–117**
-- canonical page records — **0 / 136**
-- canonical Tamil transcription — **NOT STARTED**
+- canonical page records — **9 / 136**
+- Pass1 text-complete — **5 / 136 — scans1–3, 5–6**
+- Pass1 partial — **4 / 136 — scans4, 8–10**
+- scan7 canonical record — **PENDING**
+- canonical Tamil transcription — **ACTIVE**
 - assembled Tamil — **NOT STARTED / BLOCKED**
 - English translation — **NOT STARTED / BLOCKED**
-- exact next — **Pass1 Batch1 — scans1–10 / processing split part001**
+- exact next — **resolve Batch1 holds on scans4, 7, 8, 9, 10; do not start scan11**
 
 ## Source-observed front / terminal structure
 
@@ -102,11 +105,11 @@ Do not:
 
 ## Exact next activity
 
-Begin **Pass1 Batch1 — physical scans1–10 / processing split part001**.
+Resolve **Pass1 Batch1 holds — scans4, 7, 8, 9, 10**.
 
-- transcribe directly from source pixels;
-- create canonical page records for scans1–10;
-- apply the historical-glyph checklist on every text-bearing page;
-- keep unresolved clusters `needs-review`;
-- preserve front matter scans1–4 as distinct source records;
-- do not begin scan11 in the same batch.
+- scan4 — handwritten inscription;
+- scan7 — canonical record still pending;
+- scans8–9 — low-contrast/show-through source-reading holds;
+- scan10 — remaining dialogue/body text still incomplete.
+
+Do **not** begin scan11 until Batch1 is text-complete or each residual hold has a documented source-limited decision.
