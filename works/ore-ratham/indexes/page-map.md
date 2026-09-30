@@ -54,16 +54,16 @@ Chapter20 physically includes the two repeated captures at scans118–119. The d
 
 | Scan | Printed page | Chapter | Source function | Processing split / local page | Map status | Note |
 |---:|:---:|:---:|---|---|---|---|
-| 1 | — | — | cover / title | part_001 / 1 | mapped |  |
-| 2 | — | — | publication / copyright details | part_001 / 2 | mapped |  |
-| 3 | — | — | publisher note — `பதிப்புரை` | part_001 / 3 | mapped |  |
-| 4 | — | — | author photograph + handwritten inscription/text | part_001 / 4 | mapped |  |
-| 5 | 5 | 1 | narrative — chapter 1 start | part_001 / 5 | mapped |  |
-| 6 | 6 | 1 | narrative — chapter 1 | part_001 / 6 | mapped |  |
-| 7 | 7 | 1 | narrative — chapter 1 | part_001 / 7 | mapped |  |
-| 8 | 8 | 1 | narrative — chapter 1 | part_001 / 8 | mapped |  |
-| 9 | 9 | 1 | narrative — chapter 1 | part_001 / 9 | mapped |  |
-| 10 | 10 | 1 | narrative — chapter 1 | part_001 / 10 | mapped |  |
+| 1 | — | — | cover / title | part_001 / 1 | pass1-needs-review |  |
+| 2 | — | — | publication / copyright details | part_001 / 2 | pass1-needs-review |  |
+| 3 | — | — | publisher note — `பதிப்புரை` | part_001 / 3 | pass1-needs-review |  |
+| 4 | — | — | author photograph + handwritten inscription/text | part_001 / 4 | pass1-partial |  |
+| 5 | 5 | 1 | narrative — chapter 1 start | part_001 / 5 | pass1-needs-review |  |
+| 6 | 6 | 1 | narrative — chapter 1 | part_001 / 6 | pass1-needs-review |  |
+| 7 | 7 | 1 | narrative — chapter 1 | part_001 / 7 | pass1-pending |  |
+| 8 | 8 | 1 | narrative — chapter 1 | part_001 / 8 | pass1-partial |  |
+| 9 | 9 | 1 | narrative — chapter 1 | part_001 / 9 | pass1-partial |  |
+| 10 | 10 | 1 | narrative — chapter 1 | part_001 / 10 | pass1-partial |  |
 | 11 | 11 | 1 | narrative — chapter 1 | part_002 / 1 | mapped |  |
 | 12 | 12 | 2 | narrative — chapter 2 start | part_002 / 2 | mapped |  |
 | 13 | 13 | 2 | narrative — chapter 2 | part_002 / 3 | mapped |  |
@@ -213,8 +213,10 @@ Do not apply one global physical-scan↔printed-page offset across the duplicate
 
 ## Pass1 opening rule
 
-The map gate is closed. Exact next activity:
+Batch1 is **ACTIVE**.
 
-**Pass1 Batch1 — physical scans1–10 / processing split part001.**
-
-Pass1 must remain source-pixel and historical-glyph aware. No OCR-derived text may be treated as authority.
+- canonical records present — **9/10**
+- text-complete — **5/10: scans1–3, 5–6**
+- partial — **4/10: scans4, 8–10**
+- pending canonical record — **scan7**
+- exact next — **resolve scans4, 7, 8, 9, 10 before scan11**
