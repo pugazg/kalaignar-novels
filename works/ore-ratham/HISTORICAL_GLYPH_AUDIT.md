@@ -2,7 +2,7 @@
 
 ## Status
 
-**POLICY ACTIVE / PAGE-LEVEL AUDIT NOT STARTED**
+**POLICY ACTIVE / PASS1 PRELIMINARY CHECK UNDERWAY**
 
 This work adopts the repository root `HISTORICAL_TAMIL_GLYPH_TRANSCRIPTION_GUIDE.md` before any bulk Tamil transcription.
 
@@ -51,8 +51,8 @@ A page may complete a historical-glyph pass and still remain `needs-review`.
 
 ## Current accounting
 
-- pages audited — **0 / 136**
+- pages preliminarily checked in Pass1 — **9 / 136 canonical records present**
 - historical-glyph corrections — **0**
 - ordinary source-text corrections — **0**
-- unresolved historical-glyph clusters — **0 recorded yet**
-- exact next — **full page map, then Pass1 with glyph-aware notes**
+- unresolved source-reading / glyph-sensitive holds — **scans4, 8, 9, 10; scan7 record pending**
+- exact next — **resolve Batch1 holds on scans4, 7, 8, 9, 10; no global replacement**
