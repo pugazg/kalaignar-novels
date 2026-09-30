@@ -6,7 +6,7 @@ printed_page: 10
 work: "ore-ratham"
 section: "chapter-01"
 page_type: "body"
-status: "needs-review"
+status: "partial"
 visual_fidelity: "needs-review"
 language: "ta"
 source_filename: "TVA_BOK_0064094_ஒரே_இரத்தம்_part_001_pages_1-10.pdf"
@@ -30,4 +30,4 @@ transcription_method: "direct visual baseline from attached source pixels; OCR n
 
 - printed folio **10** directly visible;
 - scan begins by continuing scan9 dialogue;
-- page remains `needs-review`; no normalization or outside context used.
+- page remains `partial`; no normalization or outside context used.
