@@ -14,8 +14,10 @@
 - full page/structure map — **136/136 COMPLETE / PASS**
 - chapters — **1–23 / 23 starts mapped**
 - duplicate physical captures — **scans118–119 = printed pp.116–117**
-- canonical pages — **0/136 / NOT STARTED**
-- exact next — **Pass1 Batch1 — scans1–10 / processing split part001**
+- canonical pages — **9/136 / Pass1 ACTIVE**
+- Pass1 text-complete — **5/136**
+- Pass1 partial/pending — **4 partial + scan7 pending**
+- exact next — **resolve scans4, 7, 8, 9, 10 before scan11**
 - source PDF — **outside Git**
 
 ## Completed source — பாயும்புலி பண்டாரக வன்னியன்
