@@ -8,12 +8,12 @@
 | File integrity recorded | **COMPLETE** |
 | Physical source pages | **136** |
 | Full page manifest | **COMPLETE / PASS — 136 / 136** |
-| Canonical page records | **0 / 136** |
+| Canonical page records | **9 / 136** |
 | Historical-glyph policy | **ACTIVE** |
 | Displayed chapter starts | **23 / 23 mapped** |
 | Repeated physical captures | **2 — scans118–119** |
 | Processing split manifest | **14 / 14 VERIFIED** |
-| Pass1 Tamil transcription | **NOT STARTED — NEXT** |
+| Pass1 Tamil transcription | **ACTIVE — Batch1 scans1–10; 5 text-complete / 4 partial / 1 pending** |
 | Pass2A source review | **BLOCKED** |
 | Pass2B independent review | **BLOCKED** |
 | Pass3 visual/structural review | **BLOCKED** |
@@ -67,4 +67,4 @@ No page may be promoted merely because OCR or language context appears plausible
 
 ## Exact next activity
 
-Begin **Pass1 Batch1 — scans1–10 / processing split part001**.
+Resolve **Pass1 Batch1 holds — scans4, 7, 8, 9, 10** before scan11.
